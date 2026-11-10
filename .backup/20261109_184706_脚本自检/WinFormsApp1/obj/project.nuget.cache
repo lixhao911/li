@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mraT9SQ7EBU=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lixhao\\Desktop\\3DPrint C#\\3Dprint\\.backup\\20261109_184706_脚本自检\\WinFormsApp1\\PrinterUpperComputer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lixhao\\.nuget\\packages\\s7netplus\\0.20.0\\s7netplus.0.20.0.nupkg.sha512",
+    "C:\\Users\\lixhao\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\lixhao\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\lixhao\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\lixhao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

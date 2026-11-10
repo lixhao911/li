@@ -1,0 +1,5 @@
+﻿备份时间: 2026-11-09 18:47:07
+备注: 脚本自检
+源目录: C:\Users\lixhao\Desktop\3DPrint C#\3Dprint
+文件数: 22
+总大小: 150.3 KB

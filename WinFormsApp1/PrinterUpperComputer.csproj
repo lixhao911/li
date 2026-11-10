@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <!--
+    版本信息：程序内显示的版本号读取自 AssemblyVersion，唯一维护点是这里的 Version。
+    每次发版改 Version / AssemblyVersion / FileVersion，并在项目根目录 CHANGELOG.md 追加一条记录。
+  -->
+  <PropertyGroup>
+    <Version>1.2.4</Version>
+    <AssemblyVersion>1.2.4.0</AssemblyVersion>
+    <FileVersion>1.2.4.0</FileVersion>
+    <Product>3D 打印上位机</Product>
+    <AssemblyTitle>PrinterUpperComputer</AssemblyTitle>
+    <Description>STL / OBJ 切片生成 G 代码，离散化为点到点点列，经 S7 通信逐点下发西门子 S7-1212C</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="S7netplus" Version="0.20.0" />
+  </ItemGroup>
+
+</Project>
